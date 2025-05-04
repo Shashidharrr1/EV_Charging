@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: ev_recharge
+Version: 0.1.0
+Requires-Dist: flask
+Requires-Dist: flask-cors
+Requires-Dist: mysql-connector-python
+Requires-Dist: python-dotenv
+Requires-Dist: PyJWT
